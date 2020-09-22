@@ -7,6 +7,7 @@
 В результате тестирования выявлены следующие дефекты:
 
   * https://github.com/NataliaOleinik/KeyValidatorTest/issues/1
+  * https://github.com/NataliaOleinik/KeyValidatorTest/issues/2
 
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты*:
